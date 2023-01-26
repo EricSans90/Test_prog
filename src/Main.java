@@ -3,7 +3,7 @@ public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        // Pedir datos por teclado
+        // Pedir datos por teclado hola
         System.out.print("Introduce tu nombre: ");
         String nombre = scanner.nextLine();
         System.out.print("Introduce tu edad: ");
